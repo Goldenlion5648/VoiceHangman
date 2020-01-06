@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>customfont.spritefont</Source>
+      <Name>customfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\bin\x86\Debug\Content\customfont.xnb</Output>
+      <Time>2019-05-15T16:41:11.8436918-04:00</Time>
+    </Item>
+    <Item>
+      <Source>letterFont.spritefont</Source>
+      <Name>letterFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\bin\x86\Debug\Content\letterFont.xnb</Output>
+      <Time>2019-05-15T16:41:11.8456836-04:00</Time>
+    </Item>
+    <Item>
+      <Source>titleFont.spritefont</Source>
+      <Name>titleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\bin\x86\Debug\Content\titleFont.xnb</Output>
+      <Time>2019-05-15T16:41:11.8476788-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{67224799-EC93-4AA6-9DA7-5E29EA3F38F3}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-07-31T09:13:00.9215594-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

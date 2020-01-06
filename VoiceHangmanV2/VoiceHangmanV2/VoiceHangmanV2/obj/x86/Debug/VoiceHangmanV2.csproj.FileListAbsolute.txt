@@ -1,0 +1,13 @@
+C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\obj\x86\Debug\VoiceHangmanV2.csprojResolveAssemblyReference.cache
+C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\bin\x86\Debug\Content\customfont.xnb
+C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\bin\x86\Debug\Content\letterFont.xnb
+C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\bin\x86\Debug\Content\titleFont.xnb
+C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\bin\x86\Debug\VoiceHangmanV2.exe
+C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\bin\x86\Debug\VoiceHangmanV2.pdb
+C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\obj\x86\Debug\VoiceHangmanV2.exe
+C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\obj\x86\Debug\VoiceHangmanV2.pdb
+C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\bin\x86\Debug\VoiceHangmanV2.exe.manifest
+C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\bin\x86\Debug\VoiceHangmanV2.application
+C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\obj\x86\Debug\VoiceHangmanV2.exe.manifest
+C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2\obj\x86\Debug\VoiceHangmanV2.application

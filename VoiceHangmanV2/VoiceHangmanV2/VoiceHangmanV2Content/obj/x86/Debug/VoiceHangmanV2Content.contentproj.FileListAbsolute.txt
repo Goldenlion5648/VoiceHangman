@@ -1,0 +1,1 @@
+C:\Users\cobou\Documents\C# Games\CodeForGames\VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2Content\obj\x86\Debug\VoiceHangmanV2Content.contentprojResolveAssemblyReference.cache

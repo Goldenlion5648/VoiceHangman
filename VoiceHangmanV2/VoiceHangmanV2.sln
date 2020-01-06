@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceHangmanV2", "VoiceHangmanV2\VoiceHangmanV2\VoiceHangmanV2.csproj", "{D2CC312C-05BE-415C-8417-7CA55079C6F3}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "VoiceHangmanV2Content", "VoiceHangmanV2\VoiceHangmanV2Content\VoiceHangmanV2Content.contentproj", "{67224799-EC93-4AA6-9DA7-5E29EA3F38F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2CC312C-05BE-415C-8417-7CA55079C6F3}.Debug|x86.ActiveCfg = Debug|x86
+		{D2CC312C-05BE-415C-8417-7CA55079C6F3}.Debug|x86.Build.0 = Debug|x86
+		{D2CC312C-05BE-415C-8417-7CA55079C6F3}.Release|x86.ActiveCfg = Release|x86
+		{D2CC312C-05BE-415C-8417-7CA55079C6F3}.Release|x86.Build.0 = Release|x86
+		{67224799-EC93-4AA6-9DA7-5E29EA3F38F3}.Debug|x86.ActiveCfg = Debug|x86
+		{67224799-EC93-4AA6-9DA7-5E29EA3F38F3}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
